@@ -18,8 +18,6 @@ you can if you'd like. There are comments to help you understand why everything
 is where it is.
 
 All the policies I gathered are in folders:
-history and history_t are the policies gathered for the card counting agent when
-I used the range -20 to 20 as our weight.
-weight and weight_t are the policies gathered for the card counting agent when
-I used the range -3 to 3 as our weight.
-bet and bet_t are the policies gathered for the betting agent.
+* history and history_t are the policies gathered for the card counting agent when I used the range -20 to 20 as our weight.
+* weight and weight_t are the policies gathered for the card counting agent when I used the range -3 to 3 as our weight.
+* bet and bet_t are the policies gathered for the betting agent.
